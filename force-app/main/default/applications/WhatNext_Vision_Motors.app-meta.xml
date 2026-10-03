@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Vehicle Dealership Management System</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>WhatNext Vision Motors</label>
+    <navType>Standard</navType>
+    <tabs>Vehicle__c</tabs>
+    <tabs>Vehicle_Test_Drive__c</tabs>
+    <tabs>Vehicle_Service_Request__c</tabs>
+    <tabs>Vehicle_Order__c</tabs>
+    <tabs>Vehicle_Dealer__c</tabs>
+    <tabs>Vehicle_Customer__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>WhatNext_Vision_Motors_UtilityBar</utilityBar>
+</CustomApplication>
